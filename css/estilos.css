@@ -1,0 +1,184 @@
+:root{
+    background-color: rgb(197, 190, 190);
+}
+/* SECCION INICIO */
+.img1{
+    position: relative;
+    max-width: 100%;
+    border:groove crimson;
+   
+}
+.logo{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    color: crimson;
+    font-size: 300%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.profesion{
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    color: black;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.nav.a{
+    color: blue;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.nav{
+    position: fixed;
+    width: min-content;
+    cursor: pointer;
+    margin:0px;
+    background-color: rgb(233, 172, 172);
+    border-radius: 10px;
+    padding: 15px;
+    display: none;
+    margin-left: 50%;
+    
+}
+.nav-bar{
+    position: relative;
+    color: black;
+    background-color: rgb(211, 157, 157);
+    text-align: center;
+    border-radius: 2px;
+    margin-top: 1px;
+    cursor: pointer;
+    
+}
+
+
+.nombre{
+    text-align: center;
+    color: crimson;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(132, 138, 138);
+    margin: 0;
+}
+
+/* SECCION INFORMACION PERSONAL */
+
+
+.img2{
+    top: 15%;
+    margin-top: 50%;
+    max-width: 200px;
+    border-radius: 50%;
+    border: 1px solid crimson;
+    position: absolute;
+    left: 25%;
+
+
+}
+
+.Titulo{
+    text-align: center;
+    padding-top: 2%;
+    color: black;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    
+}
+
+.info{
+    color: black;
+    text-align: center;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    border-block: 5px;
+    background-color: gray;
+}
+.sobre mi{
+    padding-top: 2%;
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: -5%;
+    font-size: small;
+  
+}
+
+.educación{
+
+    padding: 2%;
+    color: black;
+    text-align: center;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    margin-left: 45%;          
+}
+
+/* SECCION HABILIDADES */
+.container{
+    width: 100%;
+    background-color: whitesmoke;
+}
+    
+
+  .skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: blue;
+  }
+  
+  .Creatividad {width: 90%; background-color: blueviolet;}
+  .Empatia {width: 98%; background-color: green;}
+  .Social  {width: 55%; background-color: #f44336;}
+  .Inteligencia {width: 70%; background-color: yellow;}
+
+
+.Habilidades{
+    color: black;
+    text-align: center;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+    padding: 1%;
+}
+/* SECCION EXPERIENCIA*/
+.experiencia{
+    color: black;
+    text-align: center;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+    padding: 1%;
+}
+.h3{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* SECCION CONTACTO*/
+.contacto{
+    color: black;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    display: flow-root;
+    background-color: gray;
+    padding-bottom: 3%;
+    left: 5px;
+    text-align: center;
+
+}
+
+
+
+  
